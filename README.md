@@ -45,17 +45,3 @@ npm install
 node server.js
 ```
 
-
-Project Structure
-
-Assignment-AMMR-TechSols/
-├── backend/        # Express backend API
-│   ├── server.js
-│   └── ...
-├── public/         # Public assets
-├── src/            # React components & logic
-│   ├── components/
-│   ├── pages/
-│   └── ...
-├── package.json    # Frontend config
-└── README.md
